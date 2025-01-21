@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
-mx: optimiz-co.mail.protection.outlook.com
+mode: enforce
+mx: *.mail.protection.outlook.com
 max_age: 604800
